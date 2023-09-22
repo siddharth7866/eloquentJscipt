@@ -1,5 +1,9 @@
 #sid {
-  max-width: min-content;
-  height: min-content;
+  max-width: 100%;
+  height: auto;
   border-radius: 50%;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(15, 15, 14, 0.5);
 }
