@@ -29,5 +29,5 @@ function pattern(number) {
 pattern(2);
 /*
 
-
+//closure in javascript
 
