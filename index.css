@@ -1,7 +1,8 @@
-#sid {
-  max-width: 100%;
+img {
+  max-width: 20%;
   height: auto;
-  border-radius: 50%;
+  border-radius: 30%;
+  float: right;
 }
 
 img:hover {
