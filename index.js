@@ -1,3 +1,4 @@
+/*
 const a = "siddharth";
 a;
 console.log("siddharth" || 0);
@@ -26,3 +27,7 @@ function pattern(number) {
 }
 
 pattern(2);
+/*
+
+
+
